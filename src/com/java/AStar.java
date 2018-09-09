@@ -1,11 +1,6 @@
 package com.java;
 
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
 import java.util.PriorityQueue;
-
-import org.omg.CORBA.PUBLIC_MEMBER;
 
 public class AStar {
 
